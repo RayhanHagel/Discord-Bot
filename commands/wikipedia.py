@@ -25,3 +25,5 @@ class Wikipedia(commands.Cog):
         
 def setup(client):
     client.add_cog(Wikipedia(client))
+
+# Hageru-Ray
