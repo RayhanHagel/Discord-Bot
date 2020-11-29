@@ -17,3 +17,5 @@ class Say(commands.Cog):
 
 def setup(client):
     client.add_cog(Say(client))
+
+# Hageru-Ray
