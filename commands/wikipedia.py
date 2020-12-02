@@ -1,3 +1,4 @@
+# Wikipedia Article by @Hageru-Ray
 from discord.ext import commands
 import discord
 import datetime

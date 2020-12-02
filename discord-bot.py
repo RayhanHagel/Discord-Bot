@@ -2,7 +2,7 @@ import os
 from discord.ext import commands
 
 
-TOKEN = '{Insert_Token_Here}'
+TOKEN = '{Token Here}'
 
 client = commands.Bot(command_prefix='.', help_command=None)
 os.system('cls')

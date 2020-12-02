@@ -1,3 +1,4 @@
+# Server Load Function by @Hageru-Ray
 from discord.ext import commands
 import discord
 import datetime

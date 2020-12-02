@@ -1,3 +1,4 @@
+# Discord Ping by @Hageru-Ray
 import datetime
 from discord.ext import commands
 import discord
